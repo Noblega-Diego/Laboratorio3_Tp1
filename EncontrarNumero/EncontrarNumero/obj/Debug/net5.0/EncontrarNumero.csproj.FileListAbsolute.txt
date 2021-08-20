@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\bin\Debug\net5.0\EncontrarNumero.exe
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\bin\Debug\net5.0\EncontrarNumero.deps.json
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\bin\Debug\net5.0\EncontrarNumero.runtimeconfig.json
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\bin\Debug\net5.0\EncontrarNumero.runtimeconfig.dev.json
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\bin\Debug\net5.0\EncontrarNumero.dll
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\bin\Debug\net5.0\ref\EncontrarNumero.dll
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\bin\Debug\net5.0\EncontrarNumero.pdb
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\obj\Debug\net5.0\EncontrarNumero.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\obj\Debug\net5.0\EncontrarNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\obj\Debug\net5.0\EncontrarNumero.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\obj\Debug\net5.0\EncontrarNumero.AssemblyInfo.cs
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\obj\Debug\net5.0\EncontrarNumero.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\obj\Debug\net5.0\EncontrarNumero.dll
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\obj\Debug\net5.0\ref\EncontrarNumero.dll
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\obj\Debug\net5.0\EncontrarNumero.pdb
+C:\Users\diego\source\repos\EncontrarNumero\EncontrarNumero\obj\Debug\net5.0\EncontrarNumero.genruntimeconfig.cache

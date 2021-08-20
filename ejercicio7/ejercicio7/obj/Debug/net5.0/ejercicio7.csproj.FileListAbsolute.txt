@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\bin\Debug\net5.0\ejercicio7.exe
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\bin\Debug\net5.0\ejercicio7.deps.json
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\bin\Debug\net5.0\ejercicio7.runtimeconfig.json
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\bin\Debug\net5.0\ejercicio7.runtimeconfig.dev.json
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\bin\Debug\net5.0\ejercicio7.dll
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\bin\Debug\net5.0\ref\ejercicio7.dll
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\bin\Debug\net5.0\ejercicio7.pdb
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\obj\Debug\net5.0\ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\obj\Debug\net5.0\ejercicio7.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\obj\Debug\net5.0\ejercicio7.AssemblyInfo.cs
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\obj\Debug\net5.0\ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\obj\Debug\net5.0\ejercicio7.dll
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\obj\Debug\net5.0\ref\ejercicio7.dll
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\obj\Debug\net5.0\ejercicio7.pdb
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\obj\Debug\net5.0\ejercicio7.genruntimeconfig.cache
+C:\Users\diego\source\repos\ejercicio7\ejercicio7\obj\Debug\net5.0\ejercicio7.csproj.AssemblyReference.cache

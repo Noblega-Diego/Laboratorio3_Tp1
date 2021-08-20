@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\bin\Debug\net5.0\CalculoDeSueldos.exe
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\bin\Debug\net5.0\CalculoDeSueldos.deps.json
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\bin\Debug\net5.0\CalculoDeSueldos.runtimeconfig.json
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\bin\Debug\net5.0\CalculoDeSueldos.runtimeconfig.dev.json
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\bin\Debug\net5.0\CalculoDeSueldos.dll
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\bin\Debug\net5.0\ref\CalculoDeSueldos.dll
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\bin\Debug\net5.0\CalculoDeSueldos.pdb
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\obj\Debug\net5.0\CalculoDeSueldos.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\obj\Debug\net5.0\CalculoDeSueldos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\obj\Debug\net5.0\CalculoDeSueldos.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\obj\Debug\net5.0\CalculoDeSueldos.AssemblyInfo.cs
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\obj\Debug\net5.0\CalculoDeSueldos.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\obj\Debug\net5.0\CalculoDeSueldos.dll
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\obj\Debug\net5.0\ref\CalculoDeSueldos.dll
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\obj\Debug\net5.0\CalculoDeSueldos.pdb
+C:\Users\diego\source\repos\CalculoDeSueldos\CalculoDeSueldos\obj\Debug\net5.0\CalculoDeSueldos.genruntimeconfig.cache

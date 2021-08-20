@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\ejercico6\ejercico6\bin\Debug\net5.0\ejercico6.exe
+C:\Users\diego\source\repos\ejercico6\ejercico6\bin\Debug\net5.0\ejercico6.deps.json
+C:\Users\diego\source\repos\ejercico6\ejercico6\bin\Debug\net5.0\ejercico6.runtimeconfig.json
+C:\Users\diego\source\repos\ejercico6\ejercico6\bin\Debug\net5.0\ejercico6.runtimeconfig.dev.json
+C:\Users\diego\source\repos\ejercico6\ejercico6\bin\Debug\net5.0\ejercico6.dll
+C:\Users\diego\source\repos\ejercico6\ejercico6\bin\Debug\net5.0\ref\ejercico6.dll
+C:\Users\diego\source\repos\ejercico6\ejercico6\bin\Debug\net5.0\ejercico6.pdb
+C:\Users\diego\source\repos\ejercico6\ejercico6\obj\Debug\net5.0\ejercico6.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\ejercico6\ejercico6\obj\Debug\net5.0\ejercico6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\ejercico6\ejercico6\obj\Debug\net5.0\ejercico6.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\ejercico6\ejercico6\obj\Debug\net5.0\ejercico6.AssemblyInfo.cs
+C:\Users\diego\source\repos\ejercico6\ejercico6\obj\Debug\net5.0\ejercico6.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\ejercico6\ejercico6\obj\Debug\net5.0\ejercico6.dll
+C:\Users\diego\source\repos\ejercico6\ejercico6\obj\Debug\net5.0\ref\ejercico6.dll
+C:\Users\diego\source\repos\ejercico6\ejercico6\obj\Debug\net5.0\ejercico6.pdb
+C:\Users\diego\source\repos\ejercico6\ejercico6\obj\Debug\net5.0\ejercico6.genruntimeconfig.cache

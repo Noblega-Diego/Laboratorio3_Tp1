@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\bin\Debug\net5.0\NumeroPar.exe
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\bin\Debug\net5.0\NumeroPar.deps.json
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\bin\Debug\net5.0\NumeroPar.runtimeconfig.json
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\bin\Debug\net5.0\NumeroPar.runtimeconfig.dev.json
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\bin\Debug\net5.0\NumeroPar.dll
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\bin\Debug\net5.0\ref\NumeroPar.dll
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\bin\Debug\net5.0\NumeroPar.pdb
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\obj\Debug\net5.0\NumeroPar.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\obj\Debug\net5.0\NumeroPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\obj\Debug\net5.0\NumeroPar.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\obj\Debug\net5.0\NumeroPar.AssemblyInfo.cs
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\obj\Debug\net5.0\NumeroPar.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\obj\Debug\net5.0\NumeroPar.dll
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\obj\Debug\net5.0\ref\NumeroPar.dll
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\obj\Debug\net5.0\NumeroPar.pdb
+C:\Users\diego\source\repos\NumeroPar\NumeroPar\obj\Debug\net5.0\NumeroPar.genruntimeconfig.cache
